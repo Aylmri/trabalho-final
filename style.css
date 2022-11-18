@@ -8,8 +8,8 @@ p{
     text-align: center; color: black; 
 }
  .imagem2 {
-    width: 70%;
+    width: 50%;
     margin-left: 50%;
-    border-radius: 50px;
+    border-radius: 10px;
     position: absolute;
  }
